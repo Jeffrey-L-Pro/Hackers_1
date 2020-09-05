@@ -1,0 +1,17 @@
+<!--pages/mySetting/mySetting.wxml-->
+<!-- <text>pages/mySetting/mySetting.wxml</text> -->
+
+<view>
+    
+    <button open-type="getUserInfo" bindgetuserinfo="getUserInfo">
+    <view>基本信息授权</view>
+    </button>
+    
+    <button open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber">
+    <view>号码授权</view>
+    </button>
+    
+    <button open-type="openSetting">
+    <view>个人授权设置</view>
+    </button>
+</view>

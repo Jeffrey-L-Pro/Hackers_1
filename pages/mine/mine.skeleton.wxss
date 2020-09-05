@@ -1,0 +1,65 @@
+/*
+此文件为开发者工具生成，生成时间: 9/5/2020, 7:50:40 AM 
+
+在 C:\Users\abool\WeChatProjects\Social_hackers\pages\mine\mine.wxss 中引入样式
+```
+@import "./mine.skeleton.wxss";
+```
+
+更多详细信息可以参考文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/skeleton.html
+*/
+.sk-transparent {
+    color: transparent !important;
+  }
+.sk-text-14-5834-867 {
+    background-image: linear-gradient(transparent 14.5834%, #EEEEEE 0%, #EEEEEE 85.4166%, transparent 0%) !important;
+    background-size: 100% 42.3530rpx;
+    position: relative !important;
+  }
+.sk-text {
+    background-origin: content-box !important;
+    background-clip: content-box !important;
+    background-color: transparent !important;
+    color: transparent !important;
+    background-repeat: repeat-y !important;
+  }
+.sk-text-14-5834-504 {
+    background-image: linear-gradient(transparent 14.5834%, #EEEEEE 0%, #EEEEEE 85.4166%, transparent 0%) !important;
+    background-size: 100% 42.3530rpx;
+    position: relative !important;
+  }
+.sk-text-14-5834-601 {
+    background-image: linear-gradient(transparent 14.5834%, #EEEEEE 0%, #EEEEEE 85.4166%, transparent 0%) !important;
+    background-size: 100% 42.3530rpx;
+    position: relative !important;
+  }
+.sk-button {
+    color: #EFEFEF !important;
+    background: #EFEFEF !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+.sk-image {
+    background: #EFEFEF !important;
+  }
+.sk-pseudo::before, .sk-pseudo::after {
+      background: #EFEFEF !important;
+      background-image: none !important;
+      color: transparent !important;
+      border-color: transparent !important;
+    }
+.sk-pseudo-rect::before, .sk-pseudo-rect::after {
+      border-radius: 0 !important;
+    }
+.sk-pseudo-circle::before, .sk-pseudo-circle::after {
+      border-radius: 50% !important;
+    }
+.sk-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: transparent;
+  }
